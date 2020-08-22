@@ -12,6 +12,8 @@ I like:
 * Javascript
 * CPP
 * ReactJS
+* NextJS
+* sqlite3
 * Firebase
 * Python
 
