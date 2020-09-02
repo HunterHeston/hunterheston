@@ -15,13 +15,14 @@ I like:
 * NextJS
 * sqlite3
 * Firebase
-* Python
 
 I'm tyring to get better at:
 * backend and application development
 * sql
+* prismaJS
 * redis
 * writing
+* Python
 
 
 <!--
