@@ -10,7 +10,7 @@ I'm currently working as an embedded software engineer from Orlando Florida.
 
 I like: 
 * Javascript
-* CPP
+* C++
 * ReactJS
 * NextJS
 * sqlite3
