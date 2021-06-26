@@ -9,8 +9,9 @@ I'm currently working as an embedded software engineer from Orlando Florida.
 * [dev.to](https://dev.to/hunterheston)
 
 I like: 
-* C++
+* Go
 * Javascript
+* C++
 * C
 * ReactJS
 * NextJS
