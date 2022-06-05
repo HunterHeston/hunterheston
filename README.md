@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm currently working as an embedded software engineer from Orlando Florida.
+I'm currently working as an Software Engineer in San Francisco.
 
 ### You can find me at:
 * [hunterheston.com](https://hunterheston.com)
