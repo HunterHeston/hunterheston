@@ -2,7 +2,7 @@
 
 I'm currently working towards owning my own small business. 
 
-I'm based in in San Francisco 📍.
+`San Francisco 📍`
 
 ### You can find me at:
 * [hunterheston.com](https://hunterheston.com)
