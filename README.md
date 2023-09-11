@@ -1,16 +1,19 @@
-### Hello! 👋
+# Hello! 👋
 
-I'm currently working towards owning my own small business. 
+I'm [Hunter Heston](hunterheston.com) and I'm a Software Engineer with 6+ years of experience. 
+
+## Currently Seeking:
+I'm activly seeking my next role as a Full-Stack Software Engineer. 
+
+Please send me opportunities just message me at contact@hunterheston.com.
 
 `San Francisco 📍`
 
-### You can find me at:
+## You can find me at:
 * [hunterheston.com](https://hunterheston.com)
-* [twitter](https://twitter.com/HunterHeston)
 * [linkedin](https://www.linkedin.com/in/hunterheston)
-* [dev.to](https://dev.to/hunterheston)
 
-I like: 
+A few things I work with: 
 * Javascript/TypeScript
 * ReactJS/NextJS
 * Go
@@ -18,6 +21,7 @@ I like:
 * Render
 * SQL
 * Firebase
+* PlanetScale
 
 I'm tyring to get better at:
 * writing  ✍🏻
