@@ -3,9 +3,11 @@
 I'm [Hunter Heston](https://hunterheston.com) and I'm a Software Engineer with 6+ years of experience. 
 
 ## Currently Seeking:
-I'm activly seeking my next role as a Full-Stack Software Engineer. Find my [resume here](https://hunterheston.com/hunter-heston.pdf).
+I'm activly seeking my next role as a Full-Stack Software Engineer. 
 
-Please send me opportunities just message me at contact@hunterheston.com.
+Find my [resume here](https://hunterheston.com/hunter-heston.pdf) 📄.
+
+Please send me opportunities just message me at **contact@hunterheston.com**.
 
 `San Francisco 📍`
 
