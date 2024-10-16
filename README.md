@@ -7,7 +7,7 @@ I'm activly seeking my next role as a Full-Stack Software Engineer.
 
 Find my [resume here](https://hunterheston.com/hunter-heston.pdf) 📄.
 
-Please send me opportunities just message me at **contact@hunterheston.com**.
+Reach out to me at **contact@hunterheston.com**.
 
 `San Francisco 📍`
 
